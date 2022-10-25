@@ -34,4 +34,3 @@ int main()
     cout << "num3 + num1 = " << num4 << endl;
     cout << "num3 - num1 = " << num5 << endl;
 }
-
